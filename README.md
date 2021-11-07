@@ -5,9 +5,9 @@
 ### *Задача этого соревнования* - предсказать цены на квартиры в датасете test.csv. 
 
 ### File descriptions
-train.csv - the training set
-test.csv - the test set
-sampleSubmission.csv - a sample submission file in the correct format
+* train.csv - the training set
+* test.csv - the test set
+* sampleSubmission.csv - a sample submission file in the correct format
 
 ### Data fields
 
